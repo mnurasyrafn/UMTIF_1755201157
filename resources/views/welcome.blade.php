@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    M Nur Asyraf N
+                    M. Nur Asyraf N.
                 </div>
 
                 <div class="links">
